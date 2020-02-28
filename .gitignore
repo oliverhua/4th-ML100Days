@@ -1,3 +1,6 @@
 
 .DS_Store
 .ipynb_checkpoints/Day_001_HW-checkpoint.ipynb
+*.mat
+*.csv
+*.jpg
